@@ -55,11 +55,17 @@ pipeline-medallion-azure/
 
 ## Resultados
 
-> *[CAPTURA: gold_top_productos — ranking por total_ventas]*
+**Top productos por monto de ventas**
 
-> *[CAPTURA: gold_ventas_por_categoria — unidades y ventas por categoría]*
+![Top productos](screenshots/resultado_top_productos.png)
 
-> *[CAPTURA: gold_ventas_por_tienda — granularidad diaria por tienda]*
+**Ventas por categoría**
+
+![Ventas por categoría](screenshots/resultado_ventas_categoria.png)
+
+**Ventas por fecha y tienda**
+
+![Ventas por tienda](screenshots/resultado_ventas_tienda.png)
 
 ## Cómo ejecutar
 
