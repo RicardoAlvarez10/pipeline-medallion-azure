@@ -100,5 +100,6 @@ Tratamiento de errores: las escrituras Delta usan `mode("overwrite").option("ove
 
 **Ricardo Alvarez**
 
-linkedin.com/in/ricardo-andres-alvarez · ricardoalvarez913@gmail.com
+[linkedin.com/in/ricardo-andres-alvarez](https://www.linkedin.com/in/ricardo-andres-alvarez/) · [ricardoalvarez913@gmail.com](mailto:ricardoalvarez913@gmail.com)
+
 Proyecto desarrollado como parte de la Diplomatura de Data Engineer en Azure.
